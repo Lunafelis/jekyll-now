@@ -7,3 +7,4 @@ Hello. This is my first web blog,
 
 I just wanna say: " I love you" LOL
 
+Thử viết tiếng Việt coi sao LOL
