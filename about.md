@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+Hello! i'm just a creator who want to change the World. Oh, and i'm also a cat LOL
 
 ### More Information
 
