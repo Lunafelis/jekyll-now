@@ -1,10 +1,6 @@
 ---
 layout: post
-title: This is my site
+title: MY FIRST BLOG
 ---
 
-Hello. This is my first web blog,
-
-I just wanna say: " I love you" LOL
-
-Thử viết tiếng Việt coi sao LOL
+Just some thingking of mine about life, psychology, Phylosophy, technology and many things
