@@ -1,3 +1,9 @@
+---
+layout: post
+title: WHY DO PRAYERS RARELY WORKS?
+---
+
+
 ### WHY DO PRAYERS RARELY WORKS?
 
 ##### (this is my first blog. hope you like it)
